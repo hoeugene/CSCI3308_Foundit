@@ -1,5 +1,5 @@
 # Foundit
-Introduction to Foundit, a CU CSCI 3308 Team Project.
+Introduction to Foundit, a CU CSCI 3308 Team Project.EUGENE TEST EDIT
 
 ## Who
 Name | Github ID
